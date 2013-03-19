@@ -11,3 +11,16 @@ C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bld\Debug\resources
 C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bld\Debug\pri.resfiles
 C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bld\Debug\LanguageQualifiers.txt
 C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bld\Debug\ProjectArchitectures.txt
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bin\Debug\resources.pri
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bin\Debug\AppxManifest.xml
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bin\Debug\sample-win8-jade.build.appxrecipe
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\priconfig.xml.intermediate
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\layout.resfiles.intermediate
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\resources.resfiles.intermediate
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\pri.resfiles.intermediate
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\priconfig.xml
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\layout.resfiles
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\resources.resfiles
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\pri.resfiles
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\LanguageQualifiers.txt
+C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bld\Debug\ProjectArchitectures.txt

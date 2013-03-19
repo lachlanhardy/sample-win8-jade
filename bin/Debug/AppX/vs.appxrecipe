@@ -13,46 +13,46 @@
     <RegisteredVersion>1.0.0.0</RegisteredVersion>
   </PropertyGroup>
   <ItemGroup>
-    <AppXManifest Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bin\Debug\AppxManifest.xml">
+    <AppXManifest Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bin\Debug\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2013-02-05T15:30:51.175</Modified>
+      <Modified>2013-03-19T08:01:14.969</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\images\logo.png">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\images\logo.png">
       <PackagePath>images\logo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-09-18T09:52:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\images\smalllogo.png">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\images\smalllogo.png">
       <PackagePath>images\smalllogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-09-18T09:52:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\images\splashscreen.png">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\images\splashscreen.png">
       <PackagePath>images\splashscreen.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-09-18T09:52:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\images\storelogo.png">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\images\storelogo.png">
       <PackagePath>images\storelogo.png</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
       <Modified>2012-09-18T09:52:22.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\js\default.js">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\js\default.js">
       <PackagePath>js\default.js</PackagePath>
       <Modified>2012-09-13T13:40:24.000</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\css\default.css">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\css\default.css">
       <PackagePath>css\default.css</PackagePath>
       <Modified>2013-02-05T10:53:59.033</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\default.html">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\default.html">
       <PackagePath>default.html</PackagePath>
-      <Modified>2013-02-05T15:30:45.871</Modified>
+      <Modified>2013-03-19T08:01:14.857</Modified>
     </AppxPackagedFile>
-    <AppxPackagedFile Include="C:\Users\lachlanh\documents\visual studio 2012\Projects\App2\bin\Debug\resources.pri">
+    <AppxPackagedFile Include="C:\Users\lachlanh\Documents\GitHub\sample-win8-jade\bin\Debug\resources.pri">
       <PackagePath>resources.pri</PackagePath>
       <Modified>2013-02-05T10:53:35.389</Modified>
     </AppxPackagedFile>
